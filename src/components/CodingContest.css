@@ -1,0 +1,61 @@
+.main{
+
+}
+.codingmaintitle{
+    display: block;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+.codingTitle{
+    background-color: #fff;
+    color: cornflowerblue;
+    text-align: center;
+    font-size: 65px;
+}
+.subtitle{
+    padding: 20px;
+    font-size: 35px;
+}
+.Explore{
+    /* display: flex;
+    justify-content: center;
+    align-items: center; */
+    border-radius: 15px;
+    width: 200px;
+    margin: 15px;
+    padding-left: 25px;
+    padding-right: 25px;
+    padding-top: 9px;
+    padding-bottom: 9px;
+    background-color: rgb(251, 221, 50);
+    color: black ;
+    transition: all, 0.5s;
+    cursor: pointer;
+}
+.Explore:hover{
+    background-color: #fff;
+}
+.winnercard{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.desc{
+    display: block;
+    width: auto;
+    height: 430px;
+    background-color: rgb(36, 85, 129);
+    color: aliceblue;
+}
+.desc h1{
+
+}
+.desc p{
+    margin: 50px;
+    
+}
+.desc button{
+    margin-left: 550px;
+    
+}

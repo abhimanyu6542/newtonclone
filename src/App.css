@@ -1,0 +1,169 @@
+*{
+  top: 0px;
+  left: 0px;
+  margin: 0px;
+  padding: 0px;
+}
+
+.App {
+  /* width: 100%; */
+  top: 0px;
+ 
+}
+.navbar{
+  top: 0px;
+  left: 0px;
+  width: 93%;
+  position: sticky;
+  height: 90px;
+  padding-top: 10px;
+  padding-left:30px;
+  padding-right: 30px;
+ 
+}
+.App ul{
+  background-color: #fff;
+  display: flex;
+  justify-content:space-between;
+  align-content: center;
+  text-align: center;
+  margin-top: 10px;
+  margin-left: 10px;
+  margin-right: 10px;
+  color: rgb(78, 78, 78);
+  padding-left: 50px;
+  padding-right: 50px;
+  
+}
+.App #logo{
+  font-size: 32px;
+  font-weight: 100px;
+  text-decoration: none;
+  
+  color: rgb(67, 63, 63);
+
+}
+.App #newton{
+  font-size: 32px;
+  font-weight: 100px;
+  
+  color: rgb(67, 63, 63);
+}
+.App #school{
+  font-size: 30px;
+  font-weight: 10px;
+  color: rgb(90, 90, 101);
+}
+.App ul li{
+
+  font-size: large;
+  font-weight: bold;
+  text-decoration: none;
+
+  list-style:none;
+}
+
+.App ul li .listitem{
+ 
+  font-size: 20px;
+  text-decoration: none;
+  color: rgb(78, 81, 81);
+}
+.App ul li .listitem:hover{
+  color: rgb(112, 131, 181);
+  text-decoration-line: overline ;
+}
+.App ul li #login{
+
+   
+  font-size: 20px;
+  text-decoration: none;
+  color: rgb(81, 144, 244);
+  
+}
+.App ul li #login:hover{
+  padding: 10px;
+  font-size: 20px;
+  border-radius: 20px;
+  background-color: rgb(200, 200, 209);
+  color: rgb(84, 84, 152);
+}
+.App ul li #signup{
+  font-size: 20px;
+  text-decoration: none;
+  color: rgb(81, 144, 244);
+}
+.App ul li #signup:hover{
+  padding: 10px;
+  font-size: 20px;
+  border-radius: 20px;
+  background-color: rgb(200, 200, 209);
+  color: rgb(84, 84, 152);
+ 
+
+}
+.main-footer{
+  background-color: rgb(40, 36, 36);
+  width: 100%;
+  height: 490px;
+  padding-top: 20px;
+
+  color: #fff;
+  display: flex;
+ justify-content: space-around;
+ text-align: center;
+ align-items: center;
+
+}
+.fname{
+  width: 40%;
+ 
+}
+.fname p{
+  width: 10%;
+  display: contents;
+  text-align: center;
+  justify-content: center;
+  color: rgb(239, 237, 237);
+}
+.link{
+  text-align: left;
+}
+.link ul li{
+  list-style: none;
+  text-align: left;
+  margin: 10px;
+  cursor: pointer;
+}
+.link .crshead{
+ cursor: auto;
+  color: red;
+}
+.child-footer{
+  background-color: rgb(40, 36, 36);
+  width: 100%;
+  height: 80px;
+  /* padding-top: 20px; */
+  color: #fff;
+  display: block;
+  justify-content: center;
+  text-align: center;
+
+}
+.child-footer ul{
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  text-align: center;
+  margin-left: 80px;
+  margin-right: 80px;
+  margin-bottom: 20px;
+  padding: 10px;
+}
+.child-footer ul li{
+  list-style: none;
+  cursor: pointer;
+}
+@media(){
+  
+}
